@@ -1,0 +1,2 @@
+# azure-stranka
+Štofko-webstranka
